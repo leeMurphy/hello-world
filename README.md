@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Idea storage
+Idea storage for all my ideas
